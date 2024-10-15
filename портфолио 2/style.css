@@ -1,0 +1,25 @@
+#converter {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  #converter label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  #converter input, #converter select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #result {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
